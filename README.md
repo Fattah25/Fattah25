@@ -2,7 +2,7 @@
 
 <h4>
 Nama : Tri Iman Almunawarah Fattah<br>
-NIM : 32602000101
+NIM : 3260****101
 </h4>
 
 ----
