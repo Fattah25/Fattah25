@@ -9,7 +9,7 @@ NIM : 3260______101
 
 <h1 align="center">🅼🆈 🅸🅽🆃🅴🆁🅴🆂🆃</h1>
 
-[![HTML_CSS_Python_GoLang_MongoDB_JavaScript_Java_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_GoLang_MongoDB_JavaScript_Java_)](https://pimp-my-readme.webapp.io)
+![HTML_CSS_Python_GoLang_MongoDB_JavaScript_Java_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_GoLang_MongoDB_JavaScript_Java_)
 
 [![Visitor Counter for Fattah25](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Fattah25)](https://pimp-my-readme.webapp.io)
 
