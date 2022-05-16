@@ -3,20 +3,24 @@
 <h1 align="center">🅼🆈 🅿🆁🅾🅵🅸🅻🅴</h1>
 
 <h2>
-  𝙷𝚊𝚕𝚕𝚘 🌎, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚒𝚕𝚖𝚊𝚗!<br>
-𝙸'𝚖 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊.<br>
- 𝚃𝚑𝚒𝚜 𝚐𝚒𝚝𝚑𝚞𝚋 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚠𝚊𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚝𝚘 𝚎𝚍𝚞𝚌𝚊𝚝𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕𝚕𝚢 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚏 𝚖𝚢 𝚌𝚘𝚞𝚗𝚝𝚛𝚢 :indonesia:
+  𝙷𝚊𝚕𝚕𝚘 🌎, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙸𝚕𝚖𝚊𝚗!<br>
+𝙸'𝚖 𝚏𝚛𝚘𝚖 <b>𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊</b>.<br>
+ 𝚃𝚑𝚒𝚜 𝚐𝚒𝚝𝚑𝚞𝚋 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚠𝚊𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚝𝚘 𝚎𝚍𝚞𝚌𝚊𝚝𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕𝚕𝚢 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚏 𝚖𝚢 𝚌𝚘𝚞𝚗𝚝𝚛𝚢 
   
 </h2>
 
 <h1 align="center">🆃🆁🅴🅰🆂🆄🆁🅴🆂 🅱🅾🆇</h1>
 
-- [𝙲 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎](https://www.avabodh.com/articles/ "𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙") - Advance C and C++.
-- [𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙽𝚊𝚢𝚞𝚔𝚒](https://www.nayuki.io/ "𝑚𝑎𝑡𝑒𝑚𝑎𝑡𝑖𝑘𝑎 𝑑𝑎𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚 /𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (🅴🅽🅶)") - dokumentasi terbaik tentang *computer science* dan *mathematic*.
-- [𝙿𝙷𝙿 𝚊𝚙𝚙𝚛𝚎𝚗𝚝𝚒𝚌𝚎](https://phpapprentice.com/ "𝑏𝑎ℎ𝑎𝑠𝑎 𝑃𝐻𝑃 𝑢𝑛𝑡𝑢𝑘 𝑝𝑒𝑚𝑢𝑙𝑎 (🅴🅽🅶)") - PHP bukan bahasa pemrograman yang buruk.
-- [𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗](http://www.cburch.com/books/cpy/#s3 "online book (🅴🅽🅶)") - yang perlu kamu tahu tentang *low level language*.
-- [𝙻𝚎𝚝 𝚞𝚜 𝙲](https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf "𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (🅴🅽🅶)") - buku panduan belajar bahasa C
+- [𝙲 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎](https://www.avabodh.com/articles/ "𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 (ENG)") - Advance C and C++.
+- [𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙽𝚊𝚢𝚞𝚔𝚒](https://www.nayuki.io/ "𝑚𝑎𝑡𝑒𝑚𝑎𝑡𝑖𝑘𝑎 𝑑𝑎𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚 /𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (ENG)") - dokumentasi terbaik tentang *computer science* dan *mathematic*.
+- [𝙿𝙷𝙿 𝚊𝚙𝚙𝚛𝚎𝚗𝚝𝚒𝚌𝚎](https://phpapprentice.com/ "𝑏𝑎ℎ𝑎𝑠𝑎 𝑃𝐻𝑃 𝑢𝑛𝑡𝑢𝑘 𝑝𝑒𝑚𝑢𝑙𝑎 (ENG)") - PHP bukan bahasa pemrograman yang buruk.
+- [𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗](http://www.cburch.com/books/cpy/#s3 "online book (ENG)") - yang perlu kamu tahu tentang *low level language*.
+- [𝙻𝚎𝚝 𝚞𝚜 𝙲](https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf "𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (ENG)") - buku panduan bahasa C
+- [𝚅𝚒𝚖 𝚝𝚞𝚝𝚘𝚛𝚒𝚊𝚕](https://danielmiessler.com/study/vim/ "𝑐𝑜𝑑𝑒 𝑒𝑑𝑖𝑡𝑜𝑟 𝑠ℎ𝑜𝑟𝑡𝑐𝑢𝑡 (ENG)") - Kamu yang suka coding dengan keyboard ⌨️.
+- [𝙴𝚊𝚜𝚢 𝚛𝚞𝚜𝚝](https://github.com/Fattah25/easy-rust-indonesia "𝑟𝑒𝑝𝑜 𝑟𝑢𝑠𝑡 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 (IND)") - Belajar bahasa Rust 🦀
 
+
+[𝘔𝘖𝘙𝘌 >>]()
 
 <h1 align="center">🅸🅽🆃🅴🆁🅴🆂🆃</h1>
 
