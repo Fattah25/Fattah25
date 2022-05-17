@@ -57,6 +57,6 @@
 
 <div align="center">
 <a href="https://ko-fi.com/https://ko-fi.com/procrast29479"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a><br>   
-<a href="https://zink.tips/becon"><img src="https://lh3.googleusercontent.com/a/AATXAJxi0iDV5blQVOKqExqfF8wMohiwOdRap2O8p6px=s96-c" width="50px"></a>
+<a href="https://zink.tips/becon" title="𝑎𝑛𝑑𝑎 𝑝𝑒𝑟𝑙𝑢 𝑎𝑘𝑢𝑛 𝑧𝑖𝑛𝑘 𝑢𝑛𝑡𝑢𝑘 𝑚𝑒𝑚𝑏𝑒𝑟𝑖𝑘𝑎𝑛 𝑡𝑖𝑝."><img src="https://lh3.googleusercontent.com/a/AATXAJxi0iDV5blQVOKqExqfF8wMohiwOdRap2O8p6px=s96-c" width="50px"></a>
 </div>
 
