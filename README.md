@@ -22,10 +22,41 @@
 
 [𝘔𝘖𝘙𝘌 >>]()
 
-<h1 align="center">🅸🅽🆃🅴🆁🅴🆂🆃</h1>
+<h3 align="center">🅸🅽🆃🅴🆁🅴🆂🆃</h3>
 
-![HTML_CSS_Python_GoLang_MongoDB_JavaScript_Java_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_GoLang_MongoDB_JavaScript)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) 
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "𝑝𝑦-𝑠𝑐𝑟𝑖𝑝𝑡 (𝑛𝑒𝑤 𝑓𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘 𝑓𝑜𝑟 𝑓𝑟𝑜𝑛𝑡-𝑒𝑛𝑑)")](https://pyscript.net/) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-[![Visitor Counter for Fattah25](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Fattah25)](https://pimp-my-readme.webapp.io)
+<!--![HTML_CSS_Python_GoLang_MongoDB_JavaScript_Java_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_GoLang_MongoDB_JavaScript)-->
 
+
+<h3 align="center">---</h3>
+
+<div align="center">
+<a href="https://ko-fi.com/https://ko-fi.com/procrast29479"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a><br>   
+<a href="https://zink.tips/becon"><img src="https://lh3.googleusercontent.com/a/AATXAJxi0iDV5blQVOKqExqfF8wMohiwOdRap2O8p6px=s96-c" width="50px"></a>
+</div>
 
