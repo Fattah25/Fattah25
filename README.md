@@ -18,13 +18,13 @@
 
 <h1 align="center">🆃🆁🅴🅰🆂🆄🆁🅴🆂 🅱🅾🆇</h1>
 
-- [𝙲 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎](tab:https://www.avabodh.com/articles/ "𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 (ENG)") - Advance C and C++.
-- [𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙽𝚊𝚢𝚞𝚔𝚒](tab:https://www.nayuki.io/ "𝑚𝑎𝑡𝑒𝑚𝑎𝑡𝑖𝑘𝑎 𝑑𝑎𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚 /𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (ENG)") - dokumentasi terbaik tentang *computer science* dan *mathematic*.
-- [𝙿𝙷𝙿 𝚊𝚙𝚙𝚛𝚎𝚗𝚝𝚒𝚌𝚎](tab:https://phpapprentice.com/ "𝑏𝑎ℎ𝑎𝑠𝑎 𝑃𝐻𝑃 𝑢𝑛𝑡𝑢𝑘 𝑝𝑒𝑚𝑢𝑙𝑎 (ENG)") - PHP bukan bahasa pemrograman yang buruk.
-- [𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗](tab:http://www.cburch.com/books/cpy/#s3 "online book (ENG)") - yang perlu kamu tahu tentang *low level language*.
-- [𝙻𝚎𝚝 𝚞𝚜 𝙲](tab:https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf "𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (ENG)") - buku panduan bahasa C
-- [𝚅𝚒𝚖 𝚝𝚞𝚝𝚘𝚛𝚒𝚊𝚕](tab:https://danielmiessler.com/study/vim/ "𝑐𝑜𝑑𝑒 𝑒𝑑𝑖𝑡𝑜𝑟 𝑠ℎ𝑜𝑟𝑡𝑐𝑢𝑡 (ENG)") - Kamu yang suka coding dengan keyboard ⌨️.
-- [𝙴𝚊𝚜𝚢 𝚛𝚞𝚜𝚝](tab:https://github.com/Fattah25/easy-rust-indonesia "𝑟𝑒𝑝𝑜 𝑟𝑢𝑠𝑡 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 (IND)") - Belajar bahasa Rust 🦀
+- [𝙲 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎](https://www.avabodh.com/articles/ "𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 (ENG)") - Advance C and C++.
+- [𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙽𝚊𝚢𝚞𝚔𝚒](https://www.nayuki.io/ "𝑚𝑎𝑡𝑒𝑚𝑎𝑡𝑖𝑘𝑎 𝑑𝑎𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚 /𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (ENG)") - dokumentasi terbaik tentang *computer science* dan *mathematic*.
+- [𝙿𝙷𝙿 𝚊𝚙𝚙𝚛𝚎𝚗𝚝𝚒𝚌𝚎](https://phpapprentice.com/ "𝑏𝑎ℎ𝑎𝑠𝑎 𝑃𝐻𝑃 𝑢𝑛𝑡𝑢𝑘 𝑝𝑒𝑚𝑢𝑙𝑎 (ENG)") - PHP bukan bahasa pemrograman yang buruk.
+- [𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗](http://www.cburch.com/books/cpy/#s3 "online book (ENG)") - yang perlu kamu tahu tentang *low level language*.
+- [𝙻𝚎𝚝 𝚞𝚜 𝙲](https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf "𝑑𝑜𝑘𝑢𝑚𝑒𝑛𝑡𝑎𝑠𝑖 (ENG)") - buku panduan bahasa C
+- [𝚅𝚒𝚖 𝚝𝚞𝚝𝚘𝚛𝚒𝚊𝚕](https://danielmiessler.com/study/vim/ "𝑐𝑜𝑑𝑒 𝑒𝑑𝑖𝑡𝑜𝑟 𝑠ℎ𝑜𝑟𝑡𝑐𝑢𝑡 (ENG)") - Kamu yang suka coding dengan keyboard ⌨️.
+- [𝙴𝚊𝚜𝚢 𝚛𝚞𝚜𝚝](https://github.com/Fattah25/easy-rust-indonesia "𝑟𝑒𝑝𝑜 𝑟𝑢𝑠𝑡 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 (IND)") - Belajar bahasa Rust 🦀
 
 
 [𝘔𝘖𝘙𝘌 >>]()
